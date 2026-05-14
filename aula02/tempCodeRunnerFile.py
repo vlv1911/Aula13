@@ -1,0 +1,1 @@
+print(df_eletronicos.loc[df_eletronicos['Faturamento Total (R$)'].idxmax()])
